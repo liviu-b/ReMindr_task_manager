@@ -57,7 +57,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📫 Contact
-
 Questions? Ideas? Just want to say hi?  
 Reach out to [Liviu B](https://github.com/liviu-b) on GitHub!
 
