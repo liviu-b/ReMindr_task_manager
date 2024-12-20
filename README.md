@@ -13,6 +13,7 @@ ReMindr is your friendly task management companion that helps you keep track of 
 - 📈 **Progress Tracking**: Watch your productivity soar with visual progress tracking.
 
 ## 🚀 Installation
+
 Get ReMindr up and running in no time!
 
 To run ReMindr locally, follow these steps:
